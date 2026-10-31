@@ -1,4 +1,4 @@
-# Redes Neurais Convolucionais
+# Especialização em Redes Neurais Convolucionais
 
 Exercícios e notebooks de estudo do curso **Convolutional Neural Networks**, o quarto curso da [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning), da DeepLearning.AI no Coursera. O curso é ministrado por Andrew Ng. Este repositório é um projeto de estudo independente e não é afiliado à DeepLearning.AI ou ao Coursera.
 
